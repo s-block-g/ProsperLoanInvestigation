@@ -1,0 +1,1 @@
+For this project I will be looking at the Prosper Loans Dataset made available by Udacity. Information about this dataset can be found here: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?gid=0#gid=0.
